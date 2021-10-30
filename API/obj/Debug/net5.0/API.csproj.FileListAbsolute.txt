@@ -1,0 +1,17 @@
+C:\Users\vivekgujari\Desktop\Infor\API\bin\Debug\net5.0\API.deps.json
+C:\Users\vivekgujari\Desktop\Infor\API\bin\Debug\net5.0\API.dll
+C:\Users\vivekgujari\Desktop\Infor\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\vivekgujari\Desktop\Infor\API\bin\Debug\net5.0\API.pdb
+C:\Users\vivekgujari\Desktop\Infor\API\bin\Debug\net5.0\Data.dll
+C:\Users\vivekgujari\Desktop\Infor\API\bin\Debug\net5.0\Data.pdb
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.dll
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.pdb
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\vivekgujari\Desktop\Infor\API\obj\Debug\net5.0\API.csproj.ResolveComReference.cache

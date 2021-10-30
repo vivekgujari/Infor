@@ -1,0 +1,12 @@
+CREATE apple=fruit
+CREATE orange=fruit
+CREATE banana=fruit
+CREATE kale=leafy vegetable
+CREATE chips=snacks
+CREATE watermelon=fruit
+CREATE ginger=vegetable
+CREATE tea=beverage
+update tea=hot beverage
+delete banana
+get apple
+getall

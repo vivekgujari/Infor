@@ -1,0 +1,9 @@
+C:\Users\vivekgujari\Desktop\Infor\WinForms\bin\Debug\netcoreapp3.1\WinForms.deps.json
+C:\Users\vivekgujari\Desktop\Infor\WinForms\bin\Debug\netcoreapp3.1\WinForms.dll
+C:\Users\vivekgujari\Desktop\Infor\WinForms\bin\Debug\netcoreapp3.1\WinForms.pdb
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\netcoreapp3.1\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\netcoreapp3.1\WinForms.AssemblyInfoInputs.cache
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\netcoreapp3.1\WinForms.AssemblyInfo.cs
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\netcoreapp3.1\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\netcoreapp3.1\WinForms.dll
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\netcoreapp3.1\WinForms.pdb

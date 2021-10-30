@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Infor/1.0.0": {
+        "dependencies": {
+          "API": "1.0.0",
+          "WinForms": "1.0.0"
+        },
+        "runtime": {
+          "Infor.dll": {}
+        }
+      },
+      "API/1.0.0": {
+        "runtime": {
+          "API.dll": {}
+        }
+      },
+      "WinForms/1.0.0": {
+        "runtime": {
+          "WinForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

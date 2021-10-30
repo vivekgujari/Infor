@@ -1,0 +1,12 @@
+C:\Users\vivekgujari\Desktop\Infor\WinForms\bin\Debug\net5.0-windows\WinForms.deps.json
+C:\Users\vivekgujari\Desktop\Infor\WinForms\bin\Debug\net5.0-windows\WinForms.dll
+C:\Users\vivekgujari\Desktop\Infor\WinForms\bin\Debug\net5.0-windows\ref\WinForms.dll
+C:\Users\vivekgujari\Desktop\Infor\WinForms\bin\Debug\net5.0-windows\WinForms.pdb
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\WinForms.csproj.AssemblyReference.cache
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\WinForms.AssemblyInfoInputs.cache
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\WinForms.AssemblyInfo.cs
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\WinForms.dll
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\ref\WinForms.dll
+C:\Users\vivekgujari\Desktop\Infor\WinForms\obj\Debug\net5.0-windows\WinForms.pdb
